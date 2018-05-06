@@ -6,7 +6,7 @@ namespace Lenie
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! - change 7");
+            Console.WriteLine("Hello World! - change 8");
         }
     }
 }
